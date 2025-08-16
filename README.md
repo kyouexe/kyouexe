@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Learning, coding, and solving problems, better every day.<br>Hope to collaborate with people to build helpful projects!!</p>
+<h4 align="center">Learning, coding, and solving problems, better every day.<br>Hope to collaborate with people to build helpful projects!!</h4>
 
 ###
 
@@ -85,14 +85,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=kyouexe&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyouexe&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyouexe/kyouexe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyouexe/kyouexe/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kyouexe/kyouexe/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
