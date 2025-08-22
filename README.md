@@ -122,6 +122,28 @@
 
 ###
 
+<h4 align="center">Connect with me here :</h4>
+
+###
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sarim-khan-6842482a0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/763627240390393866" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/sarim_0755/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kyouexe.kyouexe&left_color=crimson&right_color=mediumvioletred&left_text=guests"  />
 </div>
