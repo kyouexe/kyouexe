@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Learning, coding, and solving problems, better every day.<br>Hope to collaborate with people to build helpful projects!!</h4>
+<h3 align="center">Learning, coding, and solving problems, better every day.<br>Hope to collaborate with people to build helpful projects!!</h3>
 
 ###
 
