@@ -125,9 +125,6 @@
 
 ###
 
-<h4 align="center">Connect with me here :</h4>
-
-###
 
 ###
 
