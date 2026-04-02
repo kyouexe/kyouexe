@@ -2,9 +2,6 @@
 
 ###
 
-<h4 align="center">Learning, coding, and solving problems, better every day.<br>Hope to collaborate with people to build helpful projects!!</h4>
-
-###
 
 <h4 align="left">Domains I can work in :</h4>
 
